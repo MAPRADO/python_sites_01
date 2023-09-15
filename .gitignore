@@ -1,0 +1,4 @@
+# ignore all .pdf files
+*.pdf
+id_site
+id_site.pub
